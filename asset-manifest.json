@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/relsy-web/static/css/main.5f28a024.css",
-    "main.js": "/relsy-web/static/js/main.dab81693.js",
-    "static/media/logo.png": "/relsy-web/static/media/logo.2f7cd1a5578c1a85d2a4.png",
-    "static/media/Фон.png": "/relsy-web/static/media/Фон.f0d6cb9586874aa80b2d.png",
-    "index.html": "/relsy-web/index.html",
-    "main.5f28a024.css.map": "/relsy-web/static/css/main.5f28a024.css.map",
-    "main.dab81693.js.map": "/relsy-web/static/js/main.dab81693.js.map"
+    "main.css": "/github-pages-react-relsy/static/css/main.e5118e26.css",
+    "main.js": "/github-pages-react-relsy/static/js/main.74c95a53.js",
+    "static/media/logo.png": "/github-pages-react-relsy/static/media/logo.2f7cd1a5578c1a85d2a4.png",
+    "static/media/Фон.png": "/github-pages-react-relsy/static/media/Фон.f0d6cb9586874aa80b2d.png",
+    "index.html": "/github-pages-react-relsy/index.html",
+    "main.e5118e26.css.map": "/github-pages-react-relsy/static/css/main.e5118e26.css.map",
+    "main.74c95a53.js.map": "/github-pages-react-relsy/static/js/main.74c95a53.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f28a024.css",
-    "static/js/main.dab81693.js"
+    "static/css/main.e5118e26.css",
+    "static/js/main.74c95a53.js"
   ]
 }
