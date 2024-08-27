@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github-pages-react-relsy/static/css/main.e5118e26.css",
+    "main.css": "/github-pages-react-relsy/static/css/main.adab6fc0.css",
     "main.js": "/github-pages-react-relsy/static/js/main.74c95a53.js",
     "static/media/logo.png": "/github-pages-react-relsy/static/media/logo.2f7cd1a5578c1a85d2a4.png",
     "static/media/Фон.png": "/github-pages-react-relsy/static/media/Фон.f0d6cb9586874aa80b2d.png",
     "index.html": "/github-pages-react-relsy/index.html",
-    "main.e5118e26.css.map": "/github-pages-react-relsy/static/css/main.e5118e26.css.map",
+    "main.adab6fc0.css.map": "/github-pages-react-relsy/static/css/main.adab6fc0.css.map",
     "main.74c95a53.js.map": "/github-pages-react-relsy/static/js/main.74c95a53.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5118e26.css",
+    "static/css/main.adab6fc0.css",
     "static/js/main.74c95a53.js"
   ]
 }
